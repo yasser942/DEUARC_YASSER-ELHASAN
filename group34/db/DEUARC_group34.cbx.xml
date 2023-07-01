@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DEUARC_group34">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|T_DECODER:inst1|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|OUT_DECODER:inst59|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|INPUT_REGISTER:inst9|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|PROGRAM_COUNTER:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_6cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|R0:inst12|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|STACK_MEMORY:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lvf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|STACK_POINTER:inst7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_34h.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|Overflow:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_h6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|INP_DECODER:inst53|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|PC_data_mux:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_l6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|OUTPUT_REGISTER:inst11|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|R1:inst13|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|Operations_mux:inst|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|lpm_mux_Shift:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|TSF_dec:inst68|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|DATA_MEMORY:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_efi1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|ADD_SUB_LPM:inst4|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_c6i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|INS_DECODER:inst|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|R2:inst14|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|S1_mux:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|Inc_lpm:inst5|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_0ai.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|JMR:inst12|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_fgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|SC:inst2|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_bri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|CU_GROUP34:inst8|alu_decoder:inst36|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|INSTRUCTION_MEMORY:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_j1b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|lpm_mux_Shift:inst10|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|lpm_mux_Shift:inst9|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|ADDRESS_REGISTER:inst10|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|BUS_LINES:inst21|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|INSTRUCTION_REGISTER:inst5|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_jdj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|S2_MUX:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DEUARC_group34|Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|YASSER_ELHASAN_2019510006_ALU:inst|lpm_mux_Shift:inst11|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

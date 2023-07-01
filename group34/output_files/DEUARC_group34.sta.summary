@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -5.602
+TNS   : -147.299
+
+Type  : Slow 1200mV 85C Model Setup 'Clock'
+Slack : -4.936
+TNS   : -59.269
+
+Type  : Slow 1200mV 85C Model Hold 'Clock'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : 0.376
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -72.220
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -1.000
+TNS   : -40.000
+
+Type  : Slow 1200mV 0C Model Setup 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -4.987
+TNS   : -130.220
+
+Type  : Slow 1200mV 0C Model Setup 'Clock'
+Slack : -4.318
+TNS   : -50.177
+
+Type  : Slow 1200mV 0C Model Hold 'Clock'
+Slack : -0.035
+TNS   : -0.035
+
+Type  : Slow 1200mV 0C Model Hold 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : 0.335
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -72.220
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -1.000
+TNS   : -40.000
+
+Type  : Fast 1200mV 0C Model Setup 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -2.822
+TNS   : -69.332
+
+Type  : Fast 1200mV 0C Model Setup 'Clock'
+Slack : -2.400
+TNS   : -15.576
+
+Type  : Fast 1200mV 0C Model Hold 'Clock'
+Slack : -0.020
+TNS   : -0.020
+
+Type  : Fast 1200mV 0C Model Hold 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -40.826
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Common_Bus_System_YASSER_ELHASAN_2019510006_Group7:inst|inst18'
+Slack : -1.000
+TNS   : -40.000
+
+------------------------------------------------------------
